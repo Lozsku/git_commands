@@ -1,4 +1,5 @@
 # Git push from Ubuntu Terminal
+[Notion Link](https://www.notion.so/Git-push-from-Ubuntu-Terminal-4eac4f305f694e52a257444051632274?pvs=21)
 
 # Git installation
 
