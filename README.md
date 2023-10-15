@@ -9,7 +9,7 @@ sudo apt-get update
 
 ```bash
 sudo apt-get install git
-```
+``` 
 
 ```bash
 git config --global user.name "****"
