@@ -18,7 +18,7 @@ git config --global user.email "****"
 
 # Git init
 
-Go to the required Directory 
+Go to the required Directory  
 
 ```bash
 cd <path>/repo
